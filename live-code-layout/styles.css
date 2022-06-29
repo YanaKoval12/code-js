@@ -1,0 +1,10 @@
+body{
+    background-color: #f7f7f7;
+}
+.navigation{
+    display: flex;
+    padding-left: 0;
+}
+.navigation__filter-lable{
+    flex-direction: row-reverse;
+}
